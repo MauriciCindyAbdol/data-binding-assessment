@@ -1,0 +1,8 @@
+C:\Users\Mauricia.Cindy\Documents\GitHub\data-binding-assessment\exercise1\start\FlagData\bin\Debug\netstandard2.0\FlagData.deps.json
+C:\Users\Mauricia.Cindy\Documents\GitHub\data-binding-assessment\exercise1\start\FlagData\bin\Debug\netstandard2.0\FlagData.dll
+C:\Users\Mauricia.Cindy\Documents\GitHub\data-binding-assessment\exercise1\start\FlagData\bin\Debug\netstandard2.0\FlagData.pdb
+C:\Users\Mauricia.Cindy\Documents\GitHub\data-binding-assessment\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfoInputs.cache
+C:\Users\Mauricia.Cindy\Documents\GitHub\data-binding-assessment\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfo.cs
+C:\Users\Mauricia.Cindy\Documents\GitHub\data-binding-assessment\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.dll
+C:\Users\Mauricia.Cindy\Documents\GitHub\data-binding-assessment\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.pdb
+C:\Users\Mauricia.Cindy\Documents\GitHub\data-binding-assessment\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.csprojAssemblyReference.cache
